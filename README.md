@@ -30,7 +30,14 @@
 ```
 git clone https://github.com/harryheman/Modern-HTML-Starter-Template.git
 cd Modern-HTML-Starter-Template
-npm i / yarn
+npm i
+```
+
+Alternatively, if you use `yarn`:
+```
+git clone https://github.com/harryheman/Modern-HTML-Starter-Template.git
+cd Modern-HTML-Starter-Template
+yarn
 ```
 
 ## Usage
@@ -38,13 +45,23 @@ npm i / yarn
 ### Development Server
 
 ```bash
-npm run dev / yarn dev
+npm run dev
+```
+
+Alternatively, if you use `yarn`:
+```
+yarn dev
 ```
 
 ### Production Server
 
 ```bash
-npm start / yarn start
+npm start
+```
+
+Alternatively, if you use `yarn`:
+```
+yarn start
 ```
 
 ## Author
